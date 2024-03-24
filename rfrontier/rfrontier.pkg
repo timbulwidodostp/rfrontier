@@ -4,9 +4,14 @@ d A.D. Stead, Institute for Transport Studies, University of Leeds
 d Distribution-Date:   20221206
 d
 f
+
 f rfrontier.ado
-f rfrontier.pkg
 f rfrontier.sthlp
 f rfrontier_ll.ado
 f rfrontier_p.ado
 f rfrontier_postestimation.sthlp
+f tregress.ado
+f tregress.sthlp
+f tregress_ll.ado
+f tregress_p.ado
+f tregress_postestimation.sthlp
