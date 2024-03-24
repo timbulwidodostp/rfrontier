@@ -1,2 +1,2 @@
 v 1.1.2
-p rfrontier.pkg
+p Robust stochastic frontier models with non-Gaussian noise distributions Use rfrontier With STATA 18
