@@ -1,6 +1,8 @@
 # rfrontier
 Robust stochastic frontier models with non-Gaussian noise distributions Use rfrontier With STATA 18
 
+https://www.youtube.com/watch?v=bIJ4Jg4SWQ4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
